@@ -1,0 +1,8 @@
+C:\Users\Tunca\source\repos\RouteOptimization\bin\Debug\RouteOptimization.exe.config
+C:\Users\Tunca\source\repos\RouteOptimization\bin\Debug\RouteOptimization.exe
+C:\Users\Tunca\source\repos\RouteOptimization\bin\Debug\RouteOptimization.pdb
+C:\Users\Tunca\source\repos\RouteOptimization\obj\Debug\RouteOptimization.csproj.AssemblyReference.cache
+C:\Users\Tunca\source\repos\RouteOptimization\obj\Debug\RouteOptimization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tunca\source\repos\RouteOptimization\obj\Debug\RouteOptimization.csproj.CoreCompileInputs.cache
+C:\Users\Tunca\source\repos\RouteOptimization\obj\Debug\RouteOptimization.exe
+C:\Users\Tunca\source\repos\RouteOptimization\obj\Debug\RouteOptimization.pdb
